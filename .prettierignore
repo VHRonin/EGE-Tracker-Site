@@ -1,0 +1,17 @@
+node_modules
+dist
+coverage
+playwright-report
+test-results
+package-lock.json
+AGENTS.md
+ARCHITECTURE.md
+DATABASE.md
+PRD.md
+TASKS.md
+
+docs/redesign/DESIGN_SYSTEM.md
+docs/redesign/UI_SPECIFICATION.md
+
+dist-pages/
+test-results-pages/
